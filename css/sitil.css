@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family: 'Ubuntu', sans-serif;}
+
+.resimSlider{height:600px;}
+
+.hakkimizda{background:#F2F2F2;}
+
+.igri{font-size:40px; background:#F2F2F2; position:relative;
+border:20x solid ##F2F2F2; top:-40px;}
+
+.ibeyaz{font-size:40px; background:#FFFFFF; position:relative;
+border:20x solid #FFFFFF; top:-40px;}
+
+.ekibimiz{background:#FFF;}
+
+.galeri{background:#F2F2F2;}
+
+.figure:hover{opacity:.8;}
+
+.iletisim{background:#FFF;}
